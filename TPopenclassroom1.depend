@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1477296225 source:c:\projet toto\tpopenclassroom1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"programmes.h"
+	<math.h>
+
+1477294813 c:\projet toto\tpopenclassroom1\programmes.h
+
+1477294813 source:c:\projet toto\tpopenclassroom1\programmes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
